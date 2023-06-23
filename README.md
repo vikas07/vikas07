@@ -23,7 +23,8 @@
 
     <img align="left" alt="aws" src="[https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)" />
 
-    <img align="left" alt="medium" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
+    <img align="left" alt="medium" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style![Uploading image001.png…]()
+=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
 
     <img align="left" alt="php" src="[https://img.shields.io/badge/php%20-%236DB33F.svg?&style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/php%20-%236DB33F.svg?&style=for-the-badge&logo=php&logoColor=white)" />
     
