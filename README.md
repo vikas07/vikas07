@@ -1,14 +1,13 @@
 ### Hello World 👋
     I am a fullstack software engineer from India.
 
-    - 🔭 Working on multiple frontend and backend project using React and Nodejs
-    - 🌱 Learning DevOps
-    <br>
+    - 🔭 Working on multiple frontend and backend project using React and Nodejs.
+    - 🌱 Learning DevOps.
+   
 
     ## Connect with me
 
-[![linkedin vikas-kapse-33aa15125]([https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/vikas-kapse-33aa15125/)
-
+[![vikas kapse](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kapse-33aa15125/)
 
 
 ## Expertise
